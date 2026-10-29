@@ -1,0 +1,9 @@
+supabase
+fastapi
+uvicorn
+Flask
+python-dotenv
+supabase
+mcp
+
+bcrypt
